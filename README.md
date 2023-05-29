@@ -5,7 +5,7 @@
 
 ## インストール
 ```bash
-curl curl -OL httpd://github.com/scsk-r-and-d/phiqonnect/phiqonnect-1.0.1-py3-none-any.whl
+curl -OL https://github.com/scsk-quantum/phiqonnect/phiqonnect-1.0.1-py3-none-any.whl
 ```
 ```bash
 pip install ./phiqonnect-1.0.1-py3-none-any.whl
